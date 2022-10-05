@@ -1,10 +1,4 @@
-Welcome to...
- ___        __ _       _ _            ___                  _
-|_ _|_ __  / _(_)_ __ (_) |_ _   _   / _ \ _   _  ___  ___| |_
- | || '_ \| |_| | '_ \| | __| | | | | | | | | | |/ _ \/ __| __|
- | || | | |  _| | | | | | |_| |_| | | |_| | |_| |  __/\__ \ |_
-|___|_| |_|_| |_|_| |_|_|\__|\__, |  \__\_\\__,_|\___||___/\__|
-                             |___/
+Welcome to... INFINITY QUEST
 
 In the spectrum of the multiverse, there is a universe that is threatened by a great evil.
 This evil is embodied in an entity called Thunas, a once enlightened being that went insane after
