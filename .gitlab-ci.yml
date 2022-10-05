@@ -1,0 +1,53 @@
+stages:
+  - build
+  - test
+  - quality
+  - documentation
+
+buildTests:
+   stage: build
+   script:
+      - make test_project
+   artifacts:
+      paths:
+         - test_project
+
+test:
+   stage: test
+   script:
+      - test_project
+
+staticTest:
+   stage: quality
+   script:
+      - make static
+
+styleTest:
+   stage: quality
+   script:
+      - make style
+
+coverage:
+   stage: quality
+   script:
+      - make coverage
+   artifacts:
+     paths:
+      - coverage
+
+memcheckTest:
+   stage: quality
+   script:
+      - make memcheck
+   artifacts:
+      paths:
+         - memcheck.xml
+
+docs:
+   stage: documentation
+   script:
+      - make docs
+   artifacts:
+      paths:
+         - docs
+      expire_in: 14 days
