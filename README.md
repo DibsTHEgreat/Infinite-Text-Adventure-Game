@@ -1,7 +1,22 @@
-# Assignment D
+Welcome to...
+ ___        __ _       _ _            ___                  _
+|_ _|_ __  / _(_)_ __ (_) |_ _   _   / _ \ _   _  ___  ___| |_
+ | || '_ \| |_| | '_ \| | __| | | | | | | | | | |/ _ \/ __| __|
+ | || | | |  _| | | | | | |_| |_| | | |_| | |_| |  __/\__ \ |_
+|___|_| |_|_| |_|_| |_|_|\__|\__, |  \__\_\\__,_|\___||___/\__|
+                             |___/
 
-For an assignment requiring the use of a variety of tests and consisting of one program with associated classes that have header files and source files.
-<br>
-The source files must be saved in a directory named <code>src/</code>, the header files must be stored in a directory named <code>include/</code>, and the test files (using gtest) must be stored in a directory named <code>test/</code>.
-<br>The file <code>main.cpp</code> for running the project must be stored in <code>src/project/</code> and the <code>main.cpp</code> for running the gtesting must be in <code>test/</code>.
-<br>The <code>Makefile</code> contains targets for unit testing (gtest), static testing, style check, coverage, and doxygen.</li>
+In the spectrum of the multiverse, there is a universe that is threatened by a great evil.
+This evil is embodied in an entity called Thunas, a once enlightened being that went insane after
+trying to explore the depths of evil. His original goal was to vanquish evil tendencies in
+lifeforms, so they can live a pure life. However, he quickly realized that no matter what he did,
+these lifeforms that inhabit planets throughout the universe will always act the same. Selfish,
+jealousy, the want to kill, steal, etc. Completely being oblivious to the good around the evil,
+Thunas came to a realization that he must destroy all lifeforms in his universe for the greater
+good. Thunas has casted the 4 sacred artifacts across the universe, if a single person can capture
+them all, the evil being can be stopped. If not, the galaxy will be destroyed by Thunas, for there
+is no power greater than his besides these sacred artifacts. With no time for hesitation, you must
+embark on this perilous journey alone and muster the confidence to face death head on! Collect
+the 4 scared artifacts, “Shield of Absorption”, “Hammer of Lightening”, “Scrolls of Faith”,
+and the greatest of them all “The Suit of the Legendary IRON WARROR!!!”. With these
+4 ancient artifacts, you will be able to stand toe-to-toe with Thunas and anguish this genocidal manic.
